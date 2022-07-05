@@ -613,9 +613,6 @@ function about(){
     document.getElementById("closeAbt").innerHTML="Close"
     document.getElementById("aboutTextHeader").innerHTML="About the project"
     document.getElementById("aboutText").innerHTML="This project was started by me when I was playing bingo with my family on New Year's Eve. We were playing Four Corners and I remember thinking that you only needed to call the 'B's and the 'O's, and that using the physical bingo caller made this more cumbersome than needed. That sparked the idea for this website."
-    document.getElementById("aboutMeHeader").innerHTML="About Me"
-    document.getElementById("aboutMe").innerHTML="When I started the project, I was a student at Bellarmine College Prep. I enjoy Onewheeling and programming, and I like to use Javascript and HTML."
-    let image = document.getElementById("nateLogo")
     image.style.display = "block";
 }
 
