@@ -32,6 +32,13 @@
 .number{
     font-family: 'Varela Round';
 }
+
+.number1{
+    font-family: 'Varela Round';
+    font-size:xx-large;
+    font-weight: bolder;
+}
+
 .logoImg{
     display: none;
     margin-left: auto;
@@ -59,3 +66,8 @@
     display:none;
     
 }
+
+.nwvbuglogo{
+    width:113px;
+    height:57px;
+  }

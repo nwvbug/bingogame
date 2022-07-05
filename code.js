@@ -25,7 +25,6 @@ function loadQuestions() {
     })
 }
 
-// TODO: figure out the scope
 function getRandomQuestion() {
     console.log("random question ran")
     let arrayText = textBlock.split("\n")
